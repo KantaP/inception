@@ -2,14 +2,24 @@
   "name": "with-recoil",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.1.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "bootstrap": "^4.6.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "next": "latest",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.5.0",
+    "react-datepicker": "^3.6.0",
     "react-dom": "^16.13.1",
+    "react-spinners": "^0.10.6",
     "recoil": "0.0.7"
   },
   "license": "MIT"

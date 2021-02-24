@@ -1,5 +1,9 @@
-import Counter from '../components/counter'
 
-const IndexPage = () => <Counter />
+import ListIncidentPage from '../components/incident';
+
+const IndexPage = () => (
+    <ListIncidentPage />
+)
+
 
 export default IndexPage
